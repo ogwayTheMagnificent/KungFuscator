@@ -15,6 +15,11 @@ KungFuscator is designed for Lua 5.1, 5.2, 5.3, and LuaJIT, and can be used with
 To use KungFuscator, simply download by click this link below and open the text file named 'instructions.txt'
 or watch the video here: 
 
+
+## Credits
+- [Prometheus by Levno-710](https://github.com/prometheus-lua/Prometheus).
+- [JustAPerson's Lua Bytecode Interpreter](https://github.com/JustAPerson/lbi).
+
 ## License
 
 KungFuscator is released under the [MIT License](https://opensource.org/licenses/MIT).
